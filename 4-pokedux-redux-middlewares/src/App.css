@@ -1,0 +1,17 @@
+/* @import 'antd/dist/antd.css'; */
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  margin-top: 3rem;
+}
+
+.App img {
+  width: 150px;
+  margin-bottom: 3rem;
+}
